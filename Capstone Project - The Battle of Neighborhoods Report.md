@@ -19,4 +19,10 @@ From here the report will leverage the Foursquare location data to explore speci
 * Shop & Service - Child Care Service, Pharmacy, Stationery Store
 * Professional & Other Places - School, Medical Center
 
-Unfortunately, no additional external data such as house pricing, population and crime statistics will be used as the data is not openly available.
+The number and variety of above mentioned venues categories reletive to each suburb will be used as the main features for the model.
+
+Unfortunately, no additional external data sources such as house pricing, population and crime statistics will be used as the data is not openly available. If this data can be sourced in future projects then it will further support the accuracy of the model.
+
+## References
+Australian Bureau of Statistics, Census of Population and Housing 2016, viewed 4 April 2020, <https://www.abs.gov.au/census>
+
